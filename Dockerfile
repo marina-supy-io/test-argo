@@ -8,3 +8,5 @@ RUN pip install --upgrade pip \
 # Run your Python script
 CMD ["python", "-c", "print('Hello, lab test!')"]
 
+
+
