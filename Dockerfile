@@ -7,3 +7,6 @@ RUN pip install --upgrade pip \
 #test hello #test2
 # Run your Python script
 CMD ["python", "-c", "print('Hello, lab test!')"]
+
+
+
