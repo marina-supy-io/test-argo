@@ -9,3 +9,6 @@ RUN pip install --upgrade pip \
 CMD ["python", "-c", "print('Hello, lab test!')"]
 
 
+
+
+
